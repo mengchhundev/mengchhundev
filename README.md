@@ -9,8 +9,19 @@
 <h2 align="left">About me</h2>
 
 ###
+👨‍💻 DevOps Engineer with a Software Engineering 2 years, passionate about building scalable and reliable systems through automation.
 
-<p align="left">✨ Passionate about building reliable and scalable systems through automation and modern DevOps practices.<br>📚 Currently advancing my DevOps Engineering skills at ISTAD, focusing on CI/CD, containerization, Kubernetes, and cloud technologies.<br>🎯 Goal: To grow as a DevOps Engineer and contribute to secure, high-availability, and enterprise-grade infrastructure.<br>🎲 Fun fact: I transitioned from Software Engineering to DevOps to bridge development and operations for more efficient and stable system delivery.</p>
+🎓 Currently advancing my DevOps journey at ISTAD, focusing on:
+
+- 🔁 CI/CD Automation  
+- 🐳 Containerization & Kubernetes  
+- ☁️ Cloud Infrastructure  
+- 📈 System Reliability & Performance  
+
+🎯 My mission is to contribute to secure, high-availability, enterprise-grade environments while continuously improving deployment efficiency and operational excellence.
+
+🔄 Fun fact: My transition from Software Engineering to DevOps gives me a unique advantage — I understand both how systems are built and how they should run.
+
 
 ###
 
@@ -59,3 +70,4 @@
 <img src="https://raw.githubusercontent.com/mengchhundev/mengchhundev/output/snake.svg" alt="Snake animation" />
 
 ###
+
