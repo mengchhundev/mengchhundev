@@ -1,119 +1,57 @@
-# 👋 Hi, I'm Chheang Mengchhun
+<h1 align="left">Hey 👋 What's up?</h1>
 
-🚀 DevOps Engineer with a strong Software Engineering foundation  
-💻 2 years experience as Software Engineer  
-🌏 Based in Cambodia  
+###
 
----
+<p align="left">My name is Mengchun and I'm a Software and DevOps Engineer. Currently, I'm working as Software Engineer at KOSIGN (Cambodia) investment co,Ltd.</p>
 
-## 👨‍💻 About Me
+###
 
-I am a DevOps Engineer with a solid background in Software Engineering.  
-With 2 years of professional experience as a Software Engineer, I understand the full development lifecycle — from writing clean backend code to deploying scalable systems.
+<h2 align="left">About me</h2>
 
-I am passionate about:
+###
 
-- Automating infrastructure and CI/CD pipelines
-- Building scalable and reliable systems
-- Bridging the gap between Development and Operations
-- Cloud-native technologies and Kubernetes ecosystem
+<p align="left">✨ Passionate about building reliable and scalable systems through automation and modern DevOps practices.<br>📚 Currently advancing my DevOps Engineering skills at ISTAD, focusing on CI/CD, containerization, Kubernetes, and cloud technologies.<br>🎯 Goal: To grow as a DevOps Engineer and contribute to secure, high-availability, and enterprise-grade infrastructure.<br>🎲 Fun fact: I transitioned from Software Engineering to DevOps to bridge development and operations for more efficient and stable system delivery.</p>
 
-My software development background helps me design DevOps solutions that truly support developers and business goals.
+###
 
----
+<h2 align="left">Skills</h2>
 
-## 🎓 Education
+###
 
-- 🎓 Bachelor’s Degree in Computer Science  
-  Royal University of Phnom Penh
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
 
-- 💻 IT Professional Program  
-  Korean Software HRD Center
-
-- ⚙️ DevOps Engineering Program (Present)  
-  Institute of Science and Technology Advanced Development
-
----
-
-## 💼 Work Experience
-
-### Software Engineer (2 Years)  
-**KOSIGN (Cambodia) Investment Co., Ltd.**
-
-- Developed backend services using Spring Boot
-- Built modern frontend applications using Next.js & TypeScript
-- Designed and optimized PostgreSQL databases
-- Worked in real-world production environments
-- Collaborated with cross-functional teams
-
----
-
-## 🛠 DevOps Skills
-
-- 🐧 Linux
-- 🖥 Shell Scripting
-- 🐳 Docker
-- ☁️ Google Cloud Platform (GCP)
-- 🔁 CI/CD (GitHub, GitLab, Jenkins)
-- 📦 Nexus Repository
-- 🔍 SonarQube
-- ⚙️ Ansible
-- ☸️ Kubernetes
-- 🚀 ArgoCD (GitOps)
-
----
-
-## 💻 Software Engineering Skills
-
-### Backend
-- Java
-- Spring Boot
-- PostgreSQL
-- REST API Development
-
-### Frontend
-- Next.js
-- React.js
-- TypeScript
-- JavaScript
-- HTML / CSS
-
-### Others
-- Jasper Report
-- Android (Basic)
-
----
-
-## 🔄 My Career Direction
-
-Transitioning from Software Engineer to DevOps Engineer  
-Building expertise in:
-
-- Kubernetes architecture
-- Infrastructure as Code
-- GitOps workflows
-- Cloud-native system design
-- CI/CD automation pipelines
-
----
-
-## 📌 Current Focus
-
-- Kubernetes & Helm
-- CI/CD pipeline optimization
-- Infrastructure automation
-- Monitoring & Observability
-- Cloud deployments on GCP
-
----
-
-## 🤝 Let's Connect
-
-I am open to:
-- DevOps Engineer opportunities
-- Cloud & Infrastructure projects
-- Collaboration on automation & Kubernetes projects
-
----
-
-⭐ Always learning. Always improving. Always building.
+###
